@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Adel</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Android Developer</h3>
 
 
 - 🌱 I’m currently learning **Android development**
