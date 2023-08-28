@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahmoudadel17](https://github.com/Mahmoudadel17)
-
 - 📫 How to reach me **mahmoudadel5556@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1QpCiyxKRqlsOpRC0cELgupRF1v1IcNB5](https://drive.google.com/drive/folders/1QpCiyxKRqlsOpRC0cELgupRF1v1IcNB5)
