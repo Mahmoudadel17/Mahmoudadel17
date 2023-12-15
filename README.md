@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mahmoudadel5556@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QpCiyxKRqlsOpRC0cELgupRF1v1IcNB5](https://drive.google.com/drive/folders/1QpCiyxKRqlsOpRC0cELgupRF1v1IcNB5)
+- 📄 Know about my experiences [Updated CV](https://flowcv.com/resume/8bc0qu6b0f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
